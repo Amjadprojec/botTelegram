@@ -1,12 +1,12 @@
 {
   "doge" {
     "nama":"dogecoin",
-    "version":1.0.0,
+    "version":"1.0.0",
     "register":"https://doge.com"
   },
   "ltc" {
     "nama":"ltc",
-    "version":1.0.0,
+    "version":"1.0.0",
     "register":"https://ltc.com"
   }
 }
