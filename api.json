@@ -2,11 +2,13 @@
   "doge": {
     "nama": "dogecoin",
     "version": "1.0.0",
-    "register": "(link unavailable)"
+    "register": "https://doge.com",
+    "gambar": "doge.jpg"
   },
   "ltc": {
     "nama": "ltc",
     "version": "1.0.0",
-    "register": "(link unavailable)"
+    "register": "https://ltc.con",
+    "gambar": "ltc.jpg"
   }
 }
